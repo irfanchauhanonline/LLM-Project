@@ -1,0 +1,3238 @@
+[
+  {
+    "id": "s001",
+    "title": "Demo Track 1",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 63,
+    "vocal": "female",
+    "lyrics_excerpt": "dance this in we and yo th yea dark",
+    "gold_artist_ids": [
+      "a01"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s002",
+    "title": "Demo Track 2",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "calm"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "none",
+    "lyrics_excerpt": "sleep mountain and we o is my",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s003",
+    "title": "Demo Track 3",
+    "genre_tags": [],
+    "mood_tags": [
+      "tender",
+      "warm"
+    ],
+    "tempo_bpm": 86,
+    "vocal": "male",
+    "lyrics_excerpt": "my oh in and we is this yeah",
+    "gold_artist_ids": [
+      "a10",
+      "a11"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s004",
+    "title": "Demo Track 4",
+    "genre_tags": [
+      "trap"
+    ],
+    "mood_tags": [
+      "aggressive",
+      "restless"
+    ],
+    "tempo_bpm": 140,
+    "vocal": "male",
+    "lyrics_excerpt": "you in this stacks gold and m is w oh",
+    "gold_artist_ids": [
+      "a03"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s005",
+    "title": "Demo Track 5",
+    "genre_tags": [],
+    "mood_tags": [
+      "euphoric",
+      "tender"
+    ],
+    "tempo_bpm": 210,
+    "vocal": "female",
+    "lyrics_excerpt": "this the an is yeah light you my dark",
+    "gold_artist_ids": [
+      "a15",
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s006",
+    "title": "Demo Track 6",
+    "genre_tags": [],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 132,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah subway in this streets the we away my oh",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s007",
+    "title": "Demo Track 7",
+    "genre_tags": [
+      "dancehall"
+    ],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 114,
+    "vocal": "female",
+    "lyrics_excerpt": "th island hold my beach this you and is we streets traffic",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s008",
+    "title": "Demo Track 8",
+    "genre_tags": [
+      "boom bap",
+      "hip hop"
+    ],
+    "mood_tags": [
+      "confident",
+      "dreamy"
+    ],
+    "tempo_bpm": 113,
+    "vocal": "male",
+    "lyrics_excerpt": "is work my the oh blood brother yea and",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s009",
+    "title": "Demo Track 9",
+    "genre_tags": [
+      "bluegrass"
+    ],
+    "mood_tags": [
+      "nostalgic"
+    ],
+    "tempo_bpm": 58,
+    "vocal": "group",
+    "lyrics_excerpt": "yo tears truck yea m an thi is in",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s010",
+    "title": "Demo Track 10",
+    "genre_tags": [
+      "synthwave"
+    ],
+    "mood_tags": [
+      "euphoric",
+      "nostalgic"
+    ],
+    "tempo_bpm": 119,
+    "vocal": "male",
+    "lyrics_excerpt": "float my moon break we and oh you i scream",
+    "gold_artist_ids": [
+      "a12"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s011",
+    "title": "Demo Track 11",
+    "genre_tags": [
+      "ambient"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 95,
+    "vocal": "none",
+    "lyrics_excerpt": "is thi oh void my you and in yeah",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s012",
+    "title": "Demo Track 12",
+    "genre_tags": [
+      "electronica",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "joyful"
+    ],
+    "tempo_bpm": 119,
+    "vocal": "male",
+    "lyrics_excerpt": "we empty traffic in my river thi fly yo and oh mountain concret",
+    "gold_artist_ids": [
+      "a08",
+      "a23"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s013",
+    "title": "Demo Track 13",
+    "genre_tags": [
+      "americana"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 97,
+    "vocal": "group",
+    "lyrics_excerpt": "my oh you this and we river yeah",
+    "gold_artist_ids": [
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s014",
+    "title": "Demo Track 14",
+    "genre_tags": [
+      "post-punk",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 122,
+    "vocal": "male",
+    "lyrics_excerpt": "in an alon my oh walls is star you moon this",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s015",
+    "title": "Demo Track 15",
+    "genre_tags": [
+      "Afrobeats",
+      "R&B",
+      "dancehall",
+      "neo soul"
+    ],
+    "mood_tags": [
+      "smooth"
+    ],
+    "tempo_bpm": 91,
+    "vocal": "female",
+    "lyrics_excerpt": "in w the is this oh beac yeah hold my alone",
+    "gold_artist_ids": [
+      "a04",
+      "a09"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s016",
+    "title": "Demo Track 16",
+    "genre_tags": [
+      "neo soul"
+    ],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 86,
+    "vocal": "female",
+    "lyrics_excerpt": "in my lights oh we is and",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s017",
+    "title": "Demo Track 17",
+    "genre_tags": [
+      "indie-rock"
+    ],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 128,
+    "vocal": "male",
+    "lyrics_excerpt": "i reckless hold we run is the this yea leav",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s018",
+    "title": "Demo Track 18",
+    "genre_tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "trap"
+    ],
+    "mood_tags": [
+      "confident",
+      "joyful"
+    ],
+    "tempo_bpm": 128,
+    "vocal": "male",
+    "lyrics_excerpt": "my yeah oh hear yo clos th stack in ski",
+    "gold_artist_ids": [
+      "a03",
+      "a21"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s019",
+    "title": "Demo Track 19",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident",
+      "reflective"
+    ],
+    "tempo_bpm": 150,
+    "vocal": "male",
+    "lyrics_excerpt": "oh rich the yo subway my yeah",
+    "gold_artist_ids": [
+      "a03"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s020",
+    "title": "Demo Track 20",
+    "genre_tags": [
+      "Electronic",
+      "americana",
+      "indie folk",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "nostalgic",
+      "restless"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah you stars rise the i my floa and oh truck",
+    "gold_artist_ids": [
+      "a12",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s021",
+    "title": "Demo Track 21",
+    "genre_tags": [
+      "electropop",
+      "pop"
+    ],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 64,
+    "vocal": "female",
+    "lyrics_excerpt": "tonigh this yeah i you m is",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s022",
+    "title": "Demo Track 22",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "nostalgic",
+      "warm"
+    ],
+    "tempo_bpm": 70,
+    "vocal": "group",
+    "lyrics_excerpt": "moon brother the rive in we and rise my yeah oh midnigh",
+    "gold_artist_ids": [
+      "a11",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s023",
+    "title": "Demo Track 23",
+    "genre_tags": [
+      "hard rock",
+      "metal"
+    ],
+    "mood_tags": [
+      "aggressive",
+      "sensual"
+    ],
+    "tempo_bpm": 169,
+    "vocal": "male",
+    "lyrics_excerpt": "my is oh this we the yeah in",
+    "gold_artist_ids": [
+      "a07"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s024",
+    "title": "Demo Track 24",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 174,
+    "vocal": "female",
+    "lyrics_excerpt": "my you tears yea and we",
+    "gold_artist_ids": [
+      "a17"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s025",
+    "title": "Demo Track 25",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 181,
+    "vocal": "male",
+    "lyrics_excerpt": "and yeah pape grind is my you",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s026",
+    "title": "Demo Track 26",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 153,
+    "vocal": "male",
+    "lyrics_excerpt": "steel thi and m yeah w the is",
+    "gold_artist_ids": [
+      "a07"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s027",
+    "title": "Demo Track 27",
+    "genre_tags": [],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 85,
+    "vocal": "none",
+    "lyrics_excerpt": "w heat dar this yeah and moon in beach my the",
+    "gold_artist_ids": [
+      "a14"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s028",
+    "title": "Demo Track 28",
+    "genre_tags": [
+      "electropop",
+      "pop"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "euphoric"
+    ],
+    "tempo_bpm": 109,
+    "vocal": "female",
+    "lyrics_excerpt": "m and o dance you this yeah",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s029",
+    "title": "Demo Track 29",
+    "genre_tags": [
+      "boom bap",
+      "rap"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 85,
+    "vocal": "male",
+    "lyrics_excerpt": "o i climb in you wor we and m",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s030",
+    "title": "Demo Track 30",
+    "genre_tags": [
+      "jazz",
+      "neo-soul"
+    ],
+    "mood_tags": [
+      "confident",
+      "smooth"
+    ],
+    "tempo_bpm": 74,
+    "vocal": "female",
+    "lyrics_excerpt": "the this and yo oh hold dark",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s031",
+    "title": "Demo Track 31",
+    "genre_tags": [
+      "boom bap",
+      "hip-hop"
+    ],
+    "mood_tags": [
+      "reflective",
+      "warm"
+    ],
+    "tempo_bpm": 78,
+    "vocal": "male",
+    "lyrics_excerpt": "my the subway in you work traffic climb and oh is we",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s032",
+    "title": "Demo Track 32",
+    "genre_tags": [],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 130,
+    "vocal": "male",
+    "lyrics_excerpt": "in this the oh empty my w and yo",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s033",
+    "title": "Demo Track 33",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 83,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah i photograph old and the w my",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s034",
+    "title": "Demo Track 34",
+    "genre_tags": [
+      "Singer/Songwriter",
+      "acoustic"
+    ],
+    "mood_tags": [
+      "reflective",
+      "restless"
+    ],
+    "tempo_bpm": 85,
+    "vocal": "female",
+    "lyrics_excerpt": "the i my yesterday yo remember tears i oh goodby rise an",
+    "gold_artist_ids": [
+      "a06"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s035",
+    "title": "Demo Track 35",
+    "genre_tags": [
+      "trap"
+    ],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 141,
+    "vocal": "male",
+    "lyrics_excerpt": "is subway my crow and in oh yo",
+    "gold_artist_ids": [
+      "a03"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s036",
+    "title": "Demo Track 36",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "sensual"
+    ],
+    "tempo_bpm": 79,
+    "vocal": "female",
+    "lyrics_excerpt": "yo is beach yea this kiss my in we",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s037",
+    "title": "Demo Track 37",
+    "genre_tags": [
+      "Electronic",
+      "ambient",
+      "post punk",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "dreamy"
+    ],
+    "tempo_bpm": 111,
+    "vocal": "none",
+    "lyrics_excerpt": "this you rain my and yeah the streets pines",
+    "gold_artist_ids": [
+      "a08",
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s038",
+    "title": "Demo Track 38",
+    "genre_tags": [
+      "boom bap",
+      "hip-hop"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 168,
+    "vocal": "male",
+    "lyrics_excerpt": "we yeah and the you my this",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s039",
+    "title": "Demo Track 39",
+    "genre_tags": [],
+    "mood_tags": [
+      "smooth",
+      "uplifting"
+    ],
+    "tempo_bpm": 83,
+    "vocal": "male",
+    "lyrics_excerpt": "close my in we the yea you oh hol this",
+    "gold_artist_ids": [
+      "a04",
+      "a24"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s040",
+    "title": "Demo Track 40",
+    "genre_tags": [
+      "afrobeats"
+    ],
+    "mood_tags": [
+      "confident",
+      "sensual"
+    ],
+    "tempo_bpm": 96,
+    "vocal": "female",
+    "lyrics_excerpt": "kiss oh is yeah in w and thi",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s041",
+    "title": "Demo Track 41",
+    "genre_tags": [
+      "jazz",
+      "neo-soul"
+    ],
+    "mood_tags": [
+      "melancholic"
+    ],
+    "tempo_bpm": 183,
+    "vocal": "female",
+    "lyrics_excerpt": "hold floa my you we yeah this in is dreaming",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s042",
+    "title": "Demo Track 42",
+    "genre_tags": [
+      "electronic",
+      "electropop",
+      "pop"
+    ],
+    "mood_tags": [
+      "euphoric",
+      "playful",
+      "smooth"
+    ],
+    "tempo_bpm": 175,
+    "vocal": "female",
+    "lyrics_excerpt": "my fl free dance i midnigh the is we this",
+    "gold_artist_ids": [
+      "a14",
+      "a19"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s043",
+    "title": "Demo Track 43",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident",
+      "dark"
+    ],
+    "tempo_bpm": 88,
+    "vocal": "male",
+    "lyrics_excerpt": "and is this traffic in the paper yeah work oh",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s044",
+    "title": "Demo Track 44",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [
+      "energetic",
+      "warm"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "group",
+    "lyrics_excerpt": "truck yeah o rise in kitche this doorway you is and blood table the",
+    "gold_artist_ids": [
+      "a10",
+      "a11"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s045",
+    "title": "Demo Track 45",
+    "genre_tags": [
+      "POP",
+      "dance pop"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 66,
+    "vocal": "female",
+    "lyrics_excerpt": "oh is yea we i yo my",
+    "gold_artist_ids": [
+      "a01"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s046",
+    "title": "Demo Track 46",
+    "genre_tags": [
+      "drum and bass",
+      "electronica"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 179,
+    "vocal": "none",
+    "lyrics_excerpt": "i my you we the is yeah",
+    "gold_artist_ids": [
+      "a14"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s047",
+    "title": "Demo Track 47",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "aggressive"
+    ],
+    "tempo_bpm": 64,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah streets the is oh we cas and",
+    "gold_artist_ids": [
+      "a03"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s048",
+    "title": "Demo Track 48",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 147,
+    "vocal": "male",
+    "lyrics_excerpt": "mountain i river the yeah grind i thi and oh paper",
+    "gold_artist_ids": [
+      "a03"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s049",
+    "title": "Demo Track 49",
+    "genre_tags": [
+      "post-punk"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "joyful"
+    ],
+    "tempo_bpm": 72,
+    "vocal": "male",
+    "lyrics_excerpt": "oh in is yo my the",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s050",
+    "title": "Demo Track 50",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "sensual",
+      "tender"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "female",
+    "lyrics_excerpt": "my the this you we",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s051",
+    "title": "Demo Track 51",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "melancholic"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "female",
+    "lyrics_excerpt": "this paper school my summer in is oh w",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s052",
+    "title": "Demo Track 52",
+    "genre_tags": [],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 81,
+    "vocal": "male",
+    "lyrics_excerpt": "rive m the and in is we this",
+    "gold_artist_ids": [
+      "a02",
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s053",
+    "title": "Demo Track 53",
+    "genre_tags": [
+      "boom bap",
+      "hip-hop"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 101,
+    "vocal": "male",
+    "lyrics_excerpt": "th bloo tabl you in we yeah is",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s054",
+    "title": "Demo Track 54",
+    "genre_tags": [
+      "POP"
+    ],
+    "mood_tags": [
+      "hopeful",
+      "reflective"
+    ],
+    "tempo_bpm": 95,
+    "vocal": "female",
+    "lyrics_excerpt": "and i reckless the hold moon this oh midnight you we",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s055",
+    "title": "Demo Track 55",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 72,
+    "vocal": "male",
+    "lyrics_excerpt": "mountain oh rai i is we m",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s056",
+    "title": "Demo Track 56",
+    "genre_tags": [
+      "indie-rock"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 126,
+    "vocal": "male",
+    "lyrics_excerpt": "is summer w subway yo in my yeah the",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s057",
+    "title": "Demo Track 57",
+    "genre_tags": [
+      "acoustic",
+      "jazz"
+    ],
+    "mood_tags": [
+      "reflective",
+      "tender"
+    ],
+    "tempo_bpm": 83,
+    "vocal": "female",
+    "lyrics_excerpt": "yeah and rain the you in old is river",
+    "gold_artist_ids": [
+      "a02",
+      "a13"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s058",
+    "title": "Demo Track 58",
+    "genre_tags": [],
+    "mood_tags": [
+      "smooth",
+      "warm"
+    ],
+    "tempo_bpm": 89,
+    "vocal": "male",
+    "lyrics_excerpt": "and we the oh my is you",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s059",
+    "title": "Demo Track 59",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident",
+      "reflective"
+    ],
+    "tempo_bpm": 87,
+    "vocal": "female",
+    "lyrics_excerpt": "paper my you an subwa th this we yeah",
+    "gold_artist_ids": [
+      "a06",
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s060",
+    "title": "Demo Track 60",
+    "genre_tags": [
+      "alt rock"
+    ],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 131,
+    "vocal": "male",
+    "lyrics_excerpt": "is o darling the reckles an thi you",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s061",
+    "title": "Demo Track 61",
+    "genre_tags": [
+      "neo soul"
+    ],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "female",
+    "lyrics_excerpt": "my the yeah oh we",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s062",
+    "title": "Demo Track 62",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "hopeful",
+      "sensual"
+    ],
+    "tempo_bpm": 142,
+    "vocal": "female",
+    "lyrics_excerpt": "th yo my we in and this",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s063",
+    "title": "Demo Track 63",
+    "genre_tags": [
+      "americana"
+    ],
+    "mood_tags": [
+      "nostalgic",
+      "warm"
+    ],
+    "tempo_bpm": 203,
+    "vocal": "group",
+    "lyrics_excerpt": "truck dust my in oh the",
+    "gold_artist_ids": [
+      "a22"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s064",
+    "title": "Demo Track 64",
+    "genre_tags": [
+      "acoustic"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 80,
+    "vocal": "male",
+    "lyrics_excerpt": "oh rain yeah the old yesterda wall is my this mountain",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s065",
+    "title": "Demo Track 65",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 93,
+    "vocal": "none",
+    "lyrics_excerpt": "in you yeah my and th",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s066",
+    "title": "Demo Track 66",
+    "genre_tags": [
+      "country music"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 94,
+    "vocal": "male",
+    "lyrics_excerpt": "porch my o in kitchen blood the thi",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s067",
+    "title": "Demo Track 67",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 137,
+    "vocal": "group",
+    "lyrics_excerpt": "this my tomorrow in the is you yeah",
+    "gold_artist_ids": [
+      "a11"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s068",
+    "title": "Demo Track 68",
+    "genre_tags": [],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 180,
+    "vocal": "female",
+    "lyrics_excerpt": "this we yo midnigh my hold in moon i heart oh",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s069",
+    "title": "Demo Track 69",
+    "genre_tags": [
+      "Afrobeats",
+      "Pop",
+      "rnb"
+    ],
+    "mood_tags": [
+      "confident",
+      "joyful"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "female",
+    "lyrics_excerpt": "heart yo and thi in oh hold the yeah m",
+    "gold_artist_ids": [
+      "a21",
+      "a24"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s070",
+    "title": "Demo Track 70",
+    "genre_tags": [
+      "country music"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 124,
+    "vocal": "group",
+    "lyrics_excerpt": "yeah highway table this truck is o the i we blood",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s071",
+    "title": "Demo Track 71",
+    "genre_tags": [
+      "acoustic",
+      "singer-songwriter"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "tender"
+    ],
+    "tempo_bpm": 83,
+    "vocal": "female",
+    "lyrics_excerpt": "this darling m yeah and kiss in w",
+    "gold_artist_ids": [
+      "a06"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s072",
+    "title": "Demo Track 72",
+    "genre_tags": [
+      "Indie Rock",
+      "hard rock",
+      "metal"
+    ],
+    "mood_tags": [
+      "dark",
+      "restless",
+      "smooth"
+    ],
+    "tempo_bpm": 141,
+    "vocal": "male",
+    "lyrics_excerpt": "battle yeah empty and fight thi we oh rise yo m is streets blood",
+    "gold_artist_ids": [
+      "a07",
+      "a16"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s073",
+    "title": "Demo Track 73",
+    "genre_tags": [],
+    "mood_tags": [
+      "dreamy"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "male",
+    "lyrics_excerpt": "my oh we and you this in",
+    "gold_artist_ids": [
+      "a12"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s074",
+    "title": "Demo Track 74",
+    "genre_tags": [
+      "synthwave"
+    ],
+    "mood_tags": [
+      "dreamy"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "male",
+    "lyrics_excerpt": "and in empt my moon the dark silence this you",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s075",
+    "title": "Demo Track 75",
+    "genre_tags": [
+      "Electronic"
+    ],
+    "mood_tags": [
+      "nostalgic",
+      "reflective"
+    ],
+    "tempo_bpm": 56,
+    "vocal": "male",
+    "lyrics_excerpt": "and the traffi you yeah my o",
+    "gold_artist_ids": [
+      "a12"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s076",
+    "title": "Demo Track 76",
+    "genre_tags": [],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 94,
+    "vocal": "female",
+    "lyrics_excerpt": "yesterday dark i and remember this the we yo is yea",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s077",
+    "title": "Demo Track 77",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 200,
+    "vocal": "female",
+    "lyrics_excerpt": "oh this and is tonight light yeah the skin we",
+    "gold_artist_ids": [
+      "a21"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s078",
+    "title": "Demo Track 78",
+    "genre_tags": [
+      "neo soul"
+    ],
+    "mood_tags": [
+      "confident",
+      "sensual"
+    ],
+    "tempo_bpm": 94,
+    "vocal": "female",
+    "lyrics_excerpt": "want heart this close we awa and in oh leave darling my",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s079",
+    "title": "Demo Track 79",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident",
+      "euphoric",
+      "sensual"
+    ],
+    "tempo_bpm": 215,
+    "vocal": "female",
+    "lyrics_excerpt": "and i oh yeah w this",
+    "gold_artist_ids": [
+      "a19",
+      "a21"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s080",
+    "title": "Demo Track 80",
+    "genre_tags": [
+      "americana"
+    ],
+    "mood_tags": [
+      "nostalgic"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "group",
+    "lyrics_excerpt": "miles is my we in yeah the orbit yo",
+    "gold_artist_ids": [
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s081",
+    "title": "Demo Track 81",
+    "genre_tags": [],
+    "mood_tags": [
+      "dark"
+    ],
+    "tempo_bpm": 108,
+    "vocal": "male",
+    "lyrics_excerpt": "the is alone m in yea an you empt this traffic",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s082",
+    "title": "Demo Track 82",
+    "genre_tags": [
+      "Dance Pop",
+      "Electronic",
+      "POP",
+      "dnb"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 75,
+    "vocal": "female",
+    "lyrics_excerpt": "wings in is ope yeah tonight moon my and this w the",
+    "gold_artist_ids": [
+      "a01",
+      "a14"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s083",
+    "title": "Demo Track 83",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "euphoric",
+      "playful"
+    ],
+    "tempo_bpm": 126,
+    "vocal": "female",
+    "lyrics_excerpt": "this and crowd oh midnigh is you lights i we",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s084",
+    "title": "Demo Track 84",
+    "genre_tags": [
+      "jazz",
+      "neo-soul"
+    ],
+    "mood_tags": [
+      "smooth"
+    ],
+    "tempo_bpm": 87,
+    "vocal": "female",
+    "lyrics_excerpt": "th this my we yo in old is yeah",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s085",
+    "title": "Demo Track 85",
+    "genre_tags": [
+      "Afrobeats",
+      "dancehall"
+    ],
+    "mood_tags": [
+      "dark",
+      "joyful"
+    ],
+    "tempo_bpm": 107,
+    "vocal": "female",
+    "lyrics_excerpt": "and we my the yeah oh kiss",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s086",
+    "title": "Demo Track 86",
+    "genre_tags": [
+      "neo-soul"
+    ],
+    "mood_tags": [
+      "smooth"
+    ],
+    "tempo_bpm": 81,
+    "vocal": "female",
+    "lyrics_excerpt": "the dark yeah photograph this i we",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s087",
+    "title": "Demo Track 87",
+    "genre_tags": [
+      "latin",
+      "reggaeton"
+    ],
+    "mood_tags": [
+      "aggressive"
+    ],
+    "tempo_bpm": 116,
+    "vocal": "female",
+    "lyrics_excerpt": "in sun yeah and this is my beach",
+    "gold_artist_ids": [
+      "a17"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s088",
+    "title": "Demo Track 88",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "euphoric",
+      "warm"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "male",
+    "lyrics_excerpt": "my w yeah o this and the in",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s089",
+    "title": "Demo Track 89",
+    "genre_tags": [
+      "Post-Punk",
+      "indie-rock"
+    ],
+    "mood_tags": [
+      "confident",
+      "restless"
+    ],
+    "tempo_bpm": 136,
+    "vocal": "male",
+    "lyrics_excerpt": "i is m and yeah o you th",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s090",
+    "title": "Demo Track 90",
+    "genre_tags": [
+      "neo soul"
+    ],
+    "mood_tags": [
+      "playful",
+      "smooth"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "female",
+    "lyrics_excerpt": "an you oh we yeah my close is bur",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s091",
+    "title": "Demo Track 91",
+    "genre_tags": [],
+    "mood_tags": [
+      "dreamy"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "group",
+    "lyrics_excerpt": "concrete you and yea mama subway we hometow in tonight porch this",
+    "gold_artist_ids": [
+      "a12",
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s092",
+    "title": "Demo Track 92",
+    "genre_tags": [
+      "bluegrass",
+      "country music"
+    ],
+    "mood_tags": [
+      "confident",
+      "joyful"
+    ],
+    "tempo_bpm": 127,
+    "vocal": "group",
+    "lyrics_excerpt": "in we dust an you is oh",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s093",
+    "title": "Demo Track 93",
+    "genre_tags": [],
+    "mood_tags": [],
+    "tempo_bpm": 96,
+    "vocal": "none",
+    "lyrics_excerpt": "mountain and this we my is the",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s094",
+    "title": "Demo Track 94",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "dark",
+      "restless"
+    ],
+    "tempo_bpm": 116,
+    "vocal": "male",
+    "lyrics_excerpt": "oh midnight is away this and we subway the in my star",
+    "gold_artist_ids": [
+      "a16",
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s095",
+    "title": "Demo Track 95",
+    "genre_tags": [
+      "post punk"
+    ],
+    "mood_tags": [
+      "dark",
+      "dreamy"
+    ],
+    "tempo_bpm": 127,
+    "vocal": "male",
+    "lyrics_excerpt": "highwa the wall my leave we yeah silence battle oh and",
+    "gold_artist_ids": [
+      "a16",
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s096",
+    "title": "Demo Track 96",
+    "genre_tags": [
+      "afrobeats",
+      "dancehall"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 62,
+    "vocal": "female",
+    "lyrics_excerpt": "yeah dance light and beach oh this you we my",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s097",
+    "title": "Demo Track 97",
+    "genre_tags": [
+      "americana",
+      "gospel",
+      "soul"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 184,
+    "vocal": "group",
+    "lyrics_excerpt": "this the miles an in truck o my tomorro is",
+    "gold_artist_ids": [
+      "a11",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s098",
+    "title": "Demo Track 98",
+    "genre_tags": [
+      "Singer/Songwriter",
+      "acoustic",
+      "boom bap"
+    ],
+    "mood_tags": [
+      "reflective",
+      "tender"
+    ],
+    "tempo_bpm": 169,
+    "vocal": "male",
+    "lyrics_excerpt": "in we my is fury and photograp old hold darling you oh",
+    "gold_artist_ids": [
+      "a06",
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s099",
+    "title": "Demo Track 99",
+    "genre_tags": [
+      "dance pop",
+      "pop",
+      "trap"
+    ],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 137,
+    "vocal": "male",
+    "lyrics_excerpt": "paper yea in midnight oh streets grind traffic the my w",
+    "gold_artist_ids": [
+      "a01",
+      "a03"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s100",
+    "title": "Demo Track 100",
+    "genre_tags": [],
+    "mood_tags": [
+      "restless",
+      "tender"
+    ],
+    "tempo_bpm": 139,
+    "vocal": "male",
+    "lyrics_excerpt": "o is the in an leave you away",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s101",
+    "title": "Demo Track 101",
+    "genre_tags": [
+      "POP",
+      "electropop"
+    ],
+    "mood_tags": [
+      "playful",
+      "sensual"
+    ],
+    "tempo_bpm": 124,
+    "vocal": "female",
+    "lyrics_excerpt": "tonight we thi the is dance my you yeah",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s102",
+    "title": "Demo Track 102",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 112,
+    "vocal": "female",
+    "lyrics_excerpt": "danc i you brea reckless o this we in m yeah",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s103",
+    "title": "Demo Track 103",
+    "genre_tags": [
+      "acoustic",
+      "indie folk"
+    ],
+    "mood_tags": [
+      "melancholic",
+      "uplifting"
+    ],
+    "tempo_bpm": 79,
+    "vocal": "male",
+    "lyrics_excerpt": "yea this pines is you in o doorway and",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s104",
+    "title": "Demo Track 104",
+    "genre_tags": [
+      "alt-rock",
+      "indie rock"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "energetic"
+    ],
+    "tempo_bpm": 120,
+    "vocal": "male",
+    "lyrics_excerpt": "and i you highway this is the yeah",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s105",
+    "title": "Demo Track 105",
+    "genre_tags": [
+      "POP",
+      "dance pop"
+    ],
+    "mood_tags": [
+      "smooth"
+    ],
+    "tempo_bpm": 119,
+    "vocal": "female",
+    "lyrics_excerpt": "this in light o an open tonight is yo the m",
+    "gold_artist_ids": [
+      "a01"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s106",
+    "title": "Demo Track 106",
+    "genre_tags": [
+      "acoustic",
+      "singer-songwriter"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 94,
+    "vocal": "female",
+    "lyrics_excerpt": "and tears we thi the yea alone you in oh",
+    "gold_artist_ids": [
+      "a06"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s107",
+    "title": "Demo Track 107",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "dark"
+    ],
+    "tempo_bpm": 71,
+    "vocal": "male",
+    "lyrics_excerpt": "i fight you yeah silence my concrete bleed oh the",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s108",
+    "title": "Demo Track 108",
+    "genre_tags": [
+      "boom bap",
+      "hip hop",
+      "r and b"
+    ],
+    "mood_tags": [
+      "confident",
+      "sensual"
+    ],
+    "tempo_bpm": 93,
+    "vocal": "male",
+    "lyrics_excerpt": "i my w oh light thi the dance an yeah",
+    "gold_artist_ids": [
+      "a20",
+      "a21"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s109",
+    "title": "Demo Track 109",
+    "genre_tags": [
+      "Electronic"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "energetic"
+    ],
+    "tempo_bpm": 91,
+    "vocal": "none",
+    "lyrics_excerpt": "crowd midnight yo this oh is in and yea w",
+    "gold_artist_ids": [
+      "a14"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s110",
+    "title": "Demo Track 110",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "hopeful",
+      "joyful"
+    ],
+    "tempo_bpm": 100,
+    "vocal": "female",
+    "lyrics_excerpt": "hold we yeah the and this oh",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s111",
+    "title": "Demo Track 111",
+    "genre_tags": [
+      "americana",
+      "indie folk"
+    ],
+    "mood_tags": [
+      "nostalgic"
+    ],
+    "tempo_bpm": 85,
+    "vocal": "group",
+    "lyrics_excerpt": "we my dus in oh i this highway",
+    "gold_artist_ids": [
+      "a22"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s112",
+    "title": "Demo Track 112",
+    "genre_tags": [
+      "post punk"
+    ],
+    "mood_tags": [
+      "energetic",
+      "restless"
+    ],
+    "tempo_bpm": 124,
+    "vocal": "male",
+    "lyrics_excerpt": "the alone and subway traffi we this is o you my",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s113",
+    "title": "Demo Track 113",
+    "genre_tags": [
+      "ambient",
+      "drum and bass"
+    ],
+    "mood_tags": [
+      "aggressive",
+      "calm"
+    ],
+    "tempo_bpm": 126,
+    "vocal": "none",
+    "lyrics_excerpt": "oh the we and my this wings you",
+    "gold_artist_ids": [
+      "a08",
+      "a14"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s114",
+    "title": "Demo Track 114",
+    "genre_tags": [],
+    "mood_tags": [
+      "dreamy",
+      "energetic",
+      "euphoric"
+    ],
+    "tempo_bpm": 156,
+    "vocal": "male",
+    "lyrics_excerpt": "my this free oh leave and ope the we concrete dance yo streets in",
+    "gold_artist_ids": [
+      "a05",
+      "a14"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s115",
+    "title": "Demo Track 115",
+    "genre_tags": [],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 77,
+    "vocal": "female",
+    "lyrics_excerpt": "close you my yeah the we is",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s116",
+    "title": "Demo Track 116",
+    "genre_tags": [
+      "Country",
+      "americana",
+      "indie folk"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 96,
+    "vocal": "group",
+    "lyrics_excerpt": "my is ris blood we this o fight kitchen th",
+    "gold_artist_ids": [
+      "a10",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s117",
+    "title": "Demo Track 117",
+    "genre_tags": [
+      "afro pop",
+      "bluegrass",
+      "country music",
+      "dancehall"
+    ],
+    "mood_tags": [
+      "energetic",
+      "nostalgic",
+      "sensual"
+    ],
+    "tempo_bpm": 107,
+    "vocal": "female",
+    "lyrics_excerpt": "heat yeah is hear yo an highwa porch wings fly we this the truck my",
+    "gold_artist_ids": [
+      "a09",
+      "a18"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s118",
+    "title": "Demo Track 118",
+    "genre_tags": [
+      "acoustic",
+      "jazz"
+    ],
+    "mood_tags": [
+      "melancholic",
+      "reflective"
+    ],
+    "tempo_bpm": 86,
+    "vocal": "female",
+    "lyrics_excerpt": "old my this yeah we you kiss stars",
+    "gold_artist_ids": [
+      "a02",
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s119",
+    "title": "Demo Track 119",
+    "genre_tags": [],
+    "mood_tags": [
+      "dreamy",
+      "euphoric"
+    ],
+    "tempo_bpm": 145,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah m w oh stars in and you dark",
+    "gold_artist_ids": [
+      "a12",
+      "a14"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s120",
+    "title": "Demo Track 120",
+    "genre_tags": [],
+    "mood_tags": [
+      "dreamy",
+      "playful"
+    ],
+    "tempo_bpm": 56,
+    "vocal": "male",
+    "lyrics_excerpt": "stars oh you silence my crowd in danc yeah this and is",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s121",
+    "title": "Demo Track 121",
+    "genre_tags": [
+      "Metal",
+      "hard rock",
+      "post-punk"
+    ],
+    "mood_tags": [
+      "dark"
+    ],
+    "tempo_bpm": 154,
+    "vocal": "male",
+    "lyrics_excerpt": "bleed leave my in figh and run is you",
+    "gold_artist_ids": [
+      "a07",
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s122",
+    "title": "Demo Track 122",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "joyful",
+      "warm"
+    ],
+    "tempo_bpm": 200,
+    "vocal": "female",
+    "lyrics_excerpt": "we you this my i sun crowd and th oh",
+    "gold_artist_ids": [
+      "a17"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s123",
+    "title": "Demo Track 123",
+    "genre_tags": [
+      "Country",
+      "americana"
+    ],
+    "mood_tags": [
+      "sensual"
+    ],
+    "tempo_bpm": 95,
+    "vocal": "male",
+    "lyrics_excerpt": "truc is yo an my dust in yeah oh",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s124",
+    "title": "Demo Track 124",
+    "genre_tags": [
+      "soul"
+    ],
+    "mood_tags": [
+      "energetic",
+      "reflective"
+    ],
+    "tempo_bpm": 76,
+    "vocal": "female",
+    "lyrics_excerpt": "oh yeah this kiss you my is in",
+    "gold_artist_ids": [
+      "a06"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s125",
+    "title": "Demo Track 125",
+    "genre_tags": [
+      "hip-hop",
+      "r&b"
+    ],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 60,
+    "vocal": "female",
+    "lyrics_excerpt": "kiss yeah w yo work m hear and oh",
+    "gold_artist_ids": [
+      "a03",
+      "a21"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s126",
+    "title": "Demo Track 126",
+    "genre_tags": [
+      "neo soul",
+      "rnb"
+    ],
+    "mood_tags": [
+      "sensual",
+      "smooth"
+    ],
+    "tempo_bpm": 163,
+    "vocal": "female",
+    "lyrics_excerpt": "is this oh and yeah kiss darling in yo",
+    "gold_artist_ids": [
+      "a04"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s127",
+    "title": "Demo Track 127",
+    "genre_tags": [
+      "hard rock",
+      "metal",
+      "post-punk",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "dark",
+      "dreamy"
+    ],
+    "tempo_bpm": 150,
+    "vocal": "male",
+    "lyrics_excerpt": "m silence scream and this the we yeah battl you fury",
+    "gold_artist_ids": [
+      "a07",
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s128",
+    "title": "Demo Track 128",
+    "genre_tags": [
+      "indie-rock"
+    ],
+    "mood_tags": [
+      "energetic",
+      "warm"
+    ],
+    "tempo_bpm": 132,
+    "vocal": "male",
+    "lyrics_excerpt": "streets m we an run thi yo subway the o",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s129",
+    "title": "Demo Track 129",
+    "genre_tags": [
+      "ambient"
+    ],
+    "mood_tags": [
+      "dreamy",
+      "melancholic"
+    ],
+    "tempo_bpm": 111,
+    "vocal": "none",
+    "lyrics_excerpt": "and w oh yeah planet the in",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s130",
+    "title": "Demo Track 130",
+    "genre_tags": [
+      "afrobeat",
+      "r&b"
+    ],
+    "mood_tags": [
+      "euphoric",
+      "joyful"
+    ],
+    "tempo_bpm": 91,
+    "vocal": "male",
+    "lyrics_excerpt": "in yeah this hold i my and oh",
+    "gold_artist_ids": [
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s131",
+    "title": "Demo Track 131",
+    "genre_tags": [],
+    "mood_tags": [
+      "dark",
+      "euphoric"
+    ],
+    "tempo_bpm": 142,
+    "vocal": "male",
+    "lyrics_excerpt": "the thi you an my i yeah",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s132",
+    "title": "Demo Track 132",
+    "genre_tags": [
+      "boom bap",
+      "hip hop"
+    ],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 206,
+    "vocal": "male",
+    "lyrics_excerpt": "this and you in yeah bloo we mama the is",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s133",
+    "title": "Demo Track 133",
+    "genre_tags": [
+      "pop",
+      "singer songwriter"
+    ],
+    "mood_tags": [
+      "reflective"
+    ],
+    "tempo_bpm": 115,
+    "vocal": "female",
+    "lyrics_excerpt": "the my you oh yeah and i this tomorrow",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s134",
+    "title": "Demo Track 134",
+    "genre_tags": [
+      "R&B",
+      "afrobeat",
+      "reggaeton"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 214,
+    "vocal": "female",
+    "lyrics_excerpt": "yeah you oh believ i tonigh beach skin m thi",
+    "gold_artist_ids": [
+      "a17",
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s135",
+    "title": "Demo Track 135",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "smooth",
+      "tender"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "female",
+    "lyrics_excerpt": "the alon photograp and i yo this my we remember yea goodby",
+    "gold_artist_ids": [
+      "a06"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s136",
+    "title": "Demo Track 136",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "energetic"
+    ],
+    "tempo_bpm": 63,
+    "vocal": "male",
+    "lyrics_excerpt": "and the this we streets my oh",
+    "gold_artist_ids": [
+      "a05",
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s137",
+    "title": "Demo Track 137",
+    "genre_tags": [],
+    "mood_tags": [
+      "aggressive",
+      "warm"
+    ],
+    "tempo_bpm": 98,
+    "vocal": "male",
+    "lyrics_excerpt": "w yeah is o in truck my and the",
+    "gold_artist_ids": [
+      "a10",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s138",
+    "title": "Demo Track 138",
+    "genre_tags": [
+      "americana",
+      "country music",
+      "synthwave"
+    ],
+    "mood_tags": [
+      "nostalgic",
+      "warm"
+    ],
+    "tempo_bpm": 111,
+    "vocal": "male",
+    "lyrics_excerpt": "oh highwa yeah this the table subway you is w",
+    "gold_artist_ids": [
+      "a10",
+      "a12"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s139",
+    "title": "Demo Track 139",
+    "genre_tags": [],
+    "mood_tags": [
+      "euphoric",
+      "playful",
+      "restless"
+    ],
+    "tempo_bpm": 139,
+    "vocal": "female",
+    "lyrics_excerpt": "o yeah we is work i you tonight reckless climb my",
+    "gold_artist_ids": [
+      "a01",
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s140",
+    "title": "Demo Track 140",
+    "genre_tags": [
+      "latin pop",
+      "reggaeton"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 96,
+    "vocal": "female",
+    "lyrics_excerpt": "an the o we is clim you want",
+    "gold_artist_ids": [
+      "a17"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s141",
+    "title": "Demo Track 141",
+    "genre_tags": [
+      "acoustic",
+      "indie folk"
+    ],
+    "mood_tags": [
+      "melancholic"
+    ],
+    "tempo_bpm": 83,
+    "vocal": "male",
+    "lyrics_excerpt": "is old the an my yeah pines this",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s142",
+    "title": "Demo Track 142",
+    "genre_tags": [
+      "r&b"
+    ],
+    "mood_tags": [
+      "smooth"
+    ],
+    "tempo_bpm": 108,
+    "vocal": "male",
+    "lyrics_excerpt": "in grind yeah oh the we my kis",
+    "gold_artist_ids": [
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s143",
+    "title": "Demo Track 143",
+    "genre_tags": [
+      "jazz",
+      "neo soul",
+      "r&b"
+    ],
+    "mood_tags": [
+      "joyful",
+      "melancholic"
+    ],
+    "tempo_bpm": 205,
+    "vocal": "female",
+    "lyrics_excerpt": "is you island my photograph yea beac we remember oh in skin",
+    "gold_artist_ids": [
+      "a13",
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s144",
+    "title": "Demo Track 144",
+    "genre_tags": [
+      "post-punk"
+    ],
+    "mood_tags": [
+      "dreamy"
+    ],
+    "tempo_bpm": 117,
+    "vocal": "male",
+    "lyrics_excerpt": "empty my thi silence moon yeah oh the",
+    "gold_artist_ids": [
+      "a23"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s145",
+    "title": "Demo Track 145",
+    "genre_tags": [
+      "Singer/Songwriter",
+      "pop"
+    ],
+    "mood_tags": [
+      "sensual",
+      "tender"
+    ],
+    "tempo_bpm": 108,
+    "vocal": "female",
+    "lyrics_excerpt": "an in is darling rise dreaming thi yeah",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s146",
+    "title": "Demo Track 146",
+    "genre_tags": [
+      "acoustic",
+      "americana"
+    ],
+    "mood_tags": [
+      "nostalgic",
+      "reflective"
+    ],
+    "tempo_bpm": 178,
+    "vocal": "group",
+    "lyrics_excerpt": "yo kitche and the yeah is this",
+    "gold_artist_ids": [
+      "a02",
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s147",
+    "title": "Demo Track 147",
+    "genre_tags": [],
+    "mood_tags": [
+      "confident",
+      "sensual"
+    ],
+    "tempo_bpm": 88,
+    "vocal": "male",
+    "lyrics_excerpt": "is yeah this you the in streets oh we",
+    "gold_artist_ids": [
+      "a20"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s148",
+    "title": "Demo Track 148",
+    "genre_tags": [],
+    "mood_tags": [
+      "calm",
+      "dreamy"
+    ],
+    "tempo_bpm": 116,
+    "vocal": "male",
+    "lyrics_excerpt": "silence and float my streets you is dreaming alone yeah oh in traffic",
+    "gold_artist_ids": [
+      "a08",
+      "a23"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s149",
+    "title": "Demo Track 149",
+    "genre_tags": [
+      "Afrobeats",
+      "pop",
+      "r&b"
+    ],
+    "mood_tags": [
+      "joyful",
+      "smooth"
+    ],
+    "tempo_bpm": 219,
+    "vocal": "female",
+    "lyrics_excerpt": "this is sun and i want m",
+    "gold_artist_ids": [
+      "a21",
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s150",
+    "title": "Demo Track 150",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "confident",
+      "sensual"
+    ],
+    "tempo_bpm": 99,
+    "vocal": "female",
+    "lyrics_excerpt": "yeah darling close hear in we skin lights is you",
+    "gold_artist_ids": [
+      "a17",
+      "a21"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s151",
+    "title": "Demo Track 151",
+    "genre_tags": [
+      "rock"
+    ],
+    "mood_tags": [
+      "restless",
+      "sensual"
+    ],
+    "tempo_bpm": 139,
+    "vocal": "male",
+    "lyrics_excerpt": "leave this you we yeah is walls in alon and",
+    "gold_artist_ids": [
+      "a16"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s152",
+    "title": "Demo Track 152",
+    "genre_tags": [
+      "jazz",
+      "neo-soul",
+      "r&b"
+    ],
+    "mood_tags": [
+      "melancholic",
+      "sensual"
+    ],
+    "tempo_bpm": 82,
+    "vocal": "female",
+    "lyrics_excerpt": "oh hold my is the we you soldier thi midnight",
+    "gold_artist_ids": [
+      "a04",
+      "a13"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s153",
+    "title": "Demo Track 153",
+    "genre_tags": [
+      "POP",
+      "electropop"
+    ],
+    "mood_tags": [
+      "playful"
+    ],
+    "tempo_bpm": 204,
+    "vocal": "female",
+    "lyrics_excerpt": "an in yo pines light this oh rain",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s154",
+    "title": "Demo Track 154",
+    "genre_tags": [
+      "ambient"
+    ],
+    "mood_tags": [
+      "calm",
+      "nostalgic"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "none",
+    "lyrics_excerpt": "i you this and we yeah oh",
+    "gold_artist_ids": [
+      "a08"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s155",
+    "title": "Demo Track 155",
+    "genre_tags": [
+      "americana",
+      "indie folk"
+    ],
+    "mood_tags": [],
+    "tempo_bpm": 195,
+    "vocal": "group",
+    "lyrics_excerpt": "th w you oh my truck and in is",
+    "gold_artist_ids": [
+      "a22"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s156",
+    "title": "Demo Track 156",
+    "genre_tags": [
+      "dance-pop",
+      "pop"
+    ],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 111,
+    "vocal": "female",
+    "lyrics_excerpt": "the my oh i",
+    "gold_artist_ids": [
+      "a01"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s157",
+    "title": "Demo Track 157",
+    "genre_tags": [
+      "gospel",
+      "soul"
+    ],
+    "mood_tags": [
+      "uplifting"
+    ],
+    "tempo_bpm": 101,
+    "vocal": "group",
+    "lyrics_excerpt": "mountain and o grac the glory yeah rain you",
+    "gold_artist_ids": [
+      "a11"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s158",
+    "title": "Demo Track 158",
+    "genre_tags": [],
+    "mood_tags": [
+      "sensual",
+      "uplifting"
+    ],
+    "tempo_bpm": 202,
+    "vocal": "female",
+    "lyrics_excerpt": "tonight oh i the you close m is yeah",
+    "gold_artist_ids": [
+      "a21"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s159",
+    "title": "Demo Track 159",
+    "genre_tags": [
+      "alt-rock",
+      "indie rock"
+    ],
+    "mood_tags": [
+      "hopeful",
+      "restless"
+    ],
+    "tempo_bpm": 136,
+    "vocal": "male",
+    "lyrics_excerpt": "i yeah my and in w darling kiss this",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s160",
+    "title": "Demo Track 160",
+    "genre_tags": [],
+    "mood_tags": [
+      "joyful",
+      "uplifting"
+    ],
+    "tempo_bpm": 126,
+    "vocal": "group",
+    "lyrics_excerpt": "blood yeah in mama i oh w th",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s161",
+    "title": "Demo Track 161",
+    "genre_tags": [
+      "country music"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 105,
+    "vocal": "male",
+    "lyrics_excerpt": "o we my brother in mama is the you",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s162",
+    "title": "Demo Track 162",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "confident",
+      "reflective"
+    ],
+    "tempo_bpm": 196,
+    "vocal": "female",
+    "lyrics_excerpt": "is oh lights the my burn yeah and this tonigh yo",
+    "gold_artist_ids": [
+      "a21"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s163",
+    "title": "Demo Track 163",
+    "genre_tags": [
+      "Afrobeats",
+      "latin pop",
+      "r&b",
+      "reggaeton"
+    ],
+    "mood_tags": [
+      "confident"
+    ],
+    "tempo_bpm": 107,
+    "vocal": "male",
+    "lyrics_excerpt": "is yo the oh this and",
+    "gold_artist_ids": [
+      "a17",
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s164",
+    "title": "Demo Track 164",
+    "genre_tags": [
+      "Dance Pop",
+      "R&B",
+      "pop"
+    ],
+    "mood_tags": [
+      "confident",
+      "dark",
+      "sensual"
+    ],
+    "tempo_bpm": 129,
+    "vocal": "female",
+    "lyrics_excerpt": "fly you we yea i o kis wings the in",
+    "gold_artist_ids": [
+      "a01",
+      "a21"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s165",
+    "title": "Demo Track 165",
+    "genre_tags": [
+      "neo soul"
+    ],
+    "mood_tags": [
+      "hopeful",
+      "smooth"
+    ],
+    "tempo_bpm": 162,
+    "vocal": "female",
+    "lyrics_excerpt": "photograp yeah moon the we is this in an yesterday",
+    "gold_artist_ids": [
+      "a13"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s166",
+    "title": "Demo Track 166",
+    "genre_tags": [
+      "electropop",
+      "pop"
+    ],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 126,
+    "vocal": "female",
+    "lyrics_excerpt": "tonigh moo oh this yea my in traffic crowd you and",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s167",
+    "title": "Demo Track 167",
+    "genre_tags": [
+      "afrobeats",
+      "rhythm and blues"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 94,
+    "vocal": "male",
+    "lyrics_excerpt": "is this you want m burn yeah the we",
+    "gold_artist_ids": [
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s168",
+    "title": "Demo Track 168",
+    "genre_tags": [
+      "alternative rock"
+    ],
+    "mood_tags": [
+      "restless"
+    ],
+    "tempo_bpm": 117,
+    "vocal": "male",
+    "lyrics_excerpt": "thi yea we my in streets is subway the",
+    "gold_artist_ids": [
+      "a05"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s169",
+    "title": "Demo Track 169",
+    "genre_tags": [
+      "dancehall"
+    ],
+    "mood_tags": [
+      "joyful",
+      "tender"
+    ],
+    "tempo_bpm": 101,
+    "vocal": "female",
+    "lyrics_excerpt": "we yeah my hold an the kiss",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s170",
+    "title": "Demo Track 170",
+    "genre_tags": [
+      "R&B",
+      "afrobeat"
+    ],
+    "mood_tags": [
+      "smooth",
+      "tender"
+    ],
+    "tempo_bpm": 112,
+    "vocal": "male",
+    "lyrics_excerpt": "yeah danc sun the oh you my we is in island",
+    "gold_artist_ids": [
+      "a24"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s171",
+    "title": "Demo Track 171",
+    "genre_tags": [
+      "POP",
+      "boom bap",
+      "rnb"
+    ],
+    "mood_tags": [
+      "confident",
+      "euphoric",
+      "sensual"
+    ],
+    "tempo_bpm": 103,
+    "vocal": "female",
+    "lyrics_excerpt": "grind bur is and we in yeah close climb streets heart my oh traffi",
+    "gold_artist_ids": [
+      "a20",
+      "a21"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s172",
+    "title": "Demo Track 172",
+    "genre_tags": [
+      "indie folk"
+    ],
+    "mood_tags": [
+      "melancholic"
+    ],
+    "tempo_bpm": 88,
+    "vocal": "male",
+    "lyrics_excerpt": "my th remember oh and this we yesterday",
+    "gold_artist_ids": [
+      "a02"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s173",
+    "title": "Demo Track 173",
+    "genre_tags": [
+      "electronic"
+    ],
+    "mood_tags": [
+      "confident",
+      "euphoric",
+      "sensual"
+    ],
+    "tempo_bpm": 111,
+    "vocal": "male",
+    "lyrics_excerpt": "and we mama i oh yo fly this my",
+    "gold_artist_ids": [
+      "a01",
+      "a20"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s174",
+    "title": "Demo Track 174",
+    "genre_tags": [
+      "electropop",
+      "pop"
+    ],
+    "mood_tags": [
+      "euphoric"
+    ],
+    "tempo_bpm": 108,
+    "vocal": "female",
+    "lyrics_excerpt": "the thi my and is in midnight o",
+    "gold_artist_ids": [
+      "a19"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s175",
+    "title": "Demo Track 175",
+    "genre_tags": [
+      "Country"
+    ],
+    "mood_tags": [
+      "nostalgic"
+    ],
+    "tempo_bpm": 113,
+    "vocal": "group",
+    "lyrics_excerpt": "the oh and bloo yeah this in yo we",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s176",
+    "title": "Demo Track 176",
+    "genre_tags": [],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 130,
+    "vocal": "group",
+    "lyrics_excerpt": "is the in dust oh yeah highwa my an",
+    "gold_artist_ids": [
+      "a18"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s177",
+    "title": "Demo Track 177",
+    "genre_tags": [
+      "bluegrass",
+      "indie folk"
+    ],
+    "mood_tags": [
+      "confident",
+      "warm"
+    ],
+    "tempo_bpm": 112,
+    "vocal": "group",
+    "lyrics_excerpt": "we tabl the kitchen yo yeah this in",
+    "gold_artist_ids": [
+      "a18",
+      "a22"
+    ],
+    "split": "test"
+  },
+  {
+    "id": "s178",
+    "title": "Demo Track 178",
+    "genre_tags": [
+      "country"
+    ],
+    "mood_tags": [
+      "warm"
+    ],
+    "tempo_bpm": 205,
+    "vocal": "male",
+    "lyrics_excerpt": "yea my this an doorway truck hometown oh in the",
+    "gold_artist_ids": [
+      "a10"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s179",
+    "title": "Demo Track 179",
+    "genre_tags": [
+      "afrobeat",
+      "dancehall"
+    ],
+    "mood_tags": [
+      "joyful"
+    ],
+    "tempo_bpm": 103,
+    "vocal": "female",
+    "lyrics_excerpt": "is my and thi in oh heart we yeah",
+    "gold_artist_ids": [
+      "a09"
+    ],
+    "split": "dev"
+  },
+  {
+    "id": "s180",
+    "title": "Demo Track 180",
+    "genre_tags": [
+      "pop"
+    ],
+    "mood_tags": [
+      "hopeful"
+    ],
+    "tempo_bpm": 207,
+    "vocal": "female",
+    "lyrics_excerpt": "yea we the tomorro in is you",
+    "gold_artist_ids": [
+      "a15"
+    ],
+    "split": "test"
+  }
+]

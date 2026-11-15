@@ -1,0 +1,458 @@
+[
+  {
+    "id": "a01",
+    "name": "Nova Reign",
+    "genres": [
+      "pop",
+      "dance pop"
+    ],
+    "moods": [
+      "euphoric",
+      "confident"
+    ],
+    "tempo_bpm": 124,
+    "vocal": "female",
+    "lyric_themes": [
+      "party",
+      "freedom",
+      "night"
+    ]
+  },
+  {
+    "id": "a02",
+    "name": "The Hollow Pines",
+    "genres": [
+      "indie folk",
+      "acoustic"
+    ],
+    "moods": [
+      "melancholic",
+      "reflective"
+    ],
+    "tempo_bpm": 88,
+    "vocal": "male",
+    "lyric_themes": [
+      "home",
+      "memory",
+      "nature"
+    ]
+  },
+  {
+    "id": "a03",
+    "name": "Kairo Blaze",
+    "genres": [
+      "hip-hop",
+      "trap"
+    ],
+    "moods": [
+      "aggressive",
+      "confident"
+    ],
+    "tempo_bpm": 140,
+    "vocal": "male",
+    "lyric_themes": [
+      "hustle",
+      "money",
+      "city"
+    ]
+  },
+  {
+    "id": "a04",
+    "name": "Velvet Hours",
+    "genres": [
+      "r&b",
+      "neo soul"
+    ],
+    "moods": [
+      "sensual",
+      "smooth"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "female",
+    "lyric_themes": [
+      "love",
+      "desire",
+      "night"
+    ]
+  },
+  {
+    "id": "a05",
+    "name": "Static Bloom",
+    "genres": [
+      "indie rock",
+      "alt rock"
+    ],
+    "moods": [
+      "energetic",
+      "restless"
+    ],
+    "tempo_bpm": 132,
+    "vocal": "male",
+    "lyric_themes": [
+      "youth",
+      "escape",
+      "city"
+    ]
+  },
+  {
+    "id": "a06",
+    "name": "Lena Marr",
+    "genres": [
+      "singer-songwriter",
+      "acoustic"
+    ],
+    "moods": [
+      "tender",
+      "reflective"
+    ],
+    "tempo_bpm": 76,
+    "vocal": "female",
+    "lyric_themes": [
+      "heartbreak",
+      "memory",
+      "love"
+    ]
+  },
+  {
+    "id": "a07",
+    "name": "Ironvale",
+    "genres": [
+      "metal",
+      "hard rock"
+    ],
+    "moods": [
+      "aggressive",
+      "dark"
+    ],
+    "tempo_bpm": 160,
+    "vocal": "male",
+    "lyric_themes": [
+      "struggle",
+      "rage",
+      "war"
+    ]
+  },
+  {
+    "id": "a08",
+    "name": "Solace Drift",
+    "genres": [
+      "electronic",
+      "ambient"
+    ],
+    "moods": [
+      "calm",
+      "dreamy"
+    ],
+    "tempo_bpm": 100,
+    "vocal": "none",
+    "lyric_themes": [
+      "space",
+      "nature",
+      "dream"
+    ]
+  },
+  {
+    "id": "a09",
+    "name": "Maya Oduya",
+    "genres": [
+      "afrobeats",
+      "dancehall"
+    ],
+    "moods": [
+      "joyful",
+      "sensual"
+    ],
+    "tempo_bpm": 104,
+    "vocal": "female",
+    "lyric_themes": [
+      "party",
+      "love",
+      "summer"
+    ]
+  },
+  {
+    "id": "a10",
+    "name": "Grey Atlas",
+    "genres": [
+      "country",
+      "americana"
+    ],
+    "moods": [
+      "nostalgic",
+      "warm"
+    ],
+    "tempo_bpm": 96,
+    "vocal": "male",
+    "lyric_themes": [
+      "home",
+      "road",
+      "family"
+    ]
+  },
+  {
+    "id": "a11",
+    "name": "Lumen Choir",
+    "genres": [
+      "gospel",
+      "soul"
+    ],
+    "moods": [
+      "uplifting",
+      "warm"
+    ],
+    "tempo_bpm": 84,
+    "vocal": "group",
+    "lyric_themes": [
+      "faith",
+      "hope",
+      "family"
+    ]
+  },
+  {
+    "id": "a12",
+    "name": "Pixel Saints",
+    "genres": [
+      "synthwave",
+      "electronic"
+    ],
+    "moods": [
+      "nostalgic",
+      "dreamy"
+    ],
+    "tempo_bpm": 110,
+    "vocal": "male",
+    "lyric_themes": [
+      "night",
+      "city",
+      "dream"
+    ]
+  },
+  {
+    "id": "a13",
+    "name": "Rue Delacroix",
+    "genres": [
+      "jazz",
+      "neo soul"
+    ],
+    "moods": [
+      "smooth",
+      "melancholic"
+    ],
+    "tempo_bpm": 82,
+    "vocal": "female",
+    "lyric_themes": [
+      "love",
+      "night",
+      "memory"
+    ]
+  },
+  {
+    "id": "a14",
+    "name": "Bassline Union",
+    "genres": [
+      "drum and bass",
+      "electronic"
+    ],
+    "moods": [
+      "energetic",
+      "euphoric"
+    ],
+    "tempo_bpm": 174,
+    "vocal": "none",
+    "lyric_themes": [
+      "night",
+      "freedom",
+      "party"
+    ]
+  },
+  {
+    "id": "a15",
+    "name": "Juno Hart",
+    "genres": [
+      "pop",
+      "singer-songwriter"
+    ],
+    "moods": [
+      "tender",
+      "hopeful"
+    ],
+    "tempo_bpm": 98,
+    "vocal": "female",
+    "lyric_themes": [
+      "love",
+      "youth",
+      "hope"
+    ]
+  },
+  {
+    "id": "a16",
+    "name": "Cold Harbour",
+    "genres": [
+      "post-punk",
+      "indie rock"
+    ],
+    "moods": [
+      "dark",
+      "restless"
+    ],
+    "tempo_bpm": 138,
+    "vocal": "male",
+    "lyric_themes": [
+      "city",
+      "isolation",
+      "escape"
+    ]
+  },
+  {
+    "id": "a17",
+    "name": "Siena Gold",
+    "genres": [
+      "latin pop",
+      "reggaeton"
+    ],
+    "moods": [
+      "joyful",
+      "sensual"
+    ],
+    "tempo_bpm": 96,
+    "vocal": "female",
+    "lyric_themes": [
+      "party",
+      "desire",
+      "summer"
+    ]
+  },
+  {
+    "id": "a18",
+    "name": "Old Mill Road",
+    "genres": [
+      "bluegrass",
+      "country"
+    ],
+    "moods": [
+      "joyful",
+      "nostalgic"
+    ],
+    "tempo_bpm": 120,
+    "vocal": "group",
+    "lyric_themes": [
+      "road",
+      "home",
+      "family"
+    ]
+  },
+  {
+    "id": "a19",
+    "name": "Cherry Static",
+    "genres": [
+      "pop",
+      "electropop"
+    ],
+    "moods": [
+      "euphoric",
+      "playful"
+    ],
+    "tempo_bpm": 118,
+    "vocal": "female",
+    "lyric_themes": [
+      "party",
+      "youth",
+      "night"
+    ]
+  },
+  {
+    "id": "a20",
+    "name": "Dre Malone",
+    "genres": [
+      "hip-hop",
+      "boom bap"
+    ],
+    "moods": [
+      "confident",
+      "reflective"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "male",
+    "lyric_themes": [
+      "hustle",
+      "city",
+      "family"
+    ]
+  },
+  {
+    "id": "a21",
+    "name": "Amber Lowe",
+    "genres": [
+      "r&b",
+      "pop"
+    ],
+    "moods": [
+      "sensual",
+      "confident"
+    ],
+    "tempo_bpm": 100,
+    "vocal": "female",
+    "lyric_themes": [
+      "love",
+      "desire",
+      "party"
+    ]
+  },
+  {
+    "id": "a22",
+    "name": "Fen & Field",
+    "genres": [
+      "indie folk",
+      "americana"
+    ],
+    "moods": [
+      "warm",
+      "nostalgic"
+    ],
+    "tempo_bpm": 92,
+    "vocal": "group",
+    "lyric_themes": [
+      "home",
+      "road",
+      "nature"
+    ]
+  },
+  {
+    "id": "a23",
+    "name": "Night Transit",
+    "genres": [
+      "synthwave",
+      "post-punk"
+    ],
+    "moods": [
+      "dark",
+      "dreamy"
+    ],
+    "tempo_bpm": 120,
+    "vocal": "male",
+    "lyric_themes": [
+      "night",
+      "city",
+      "isolation"
+    ]
+  },
+  {
+    "id": "a24",
+    "name": "Ola Benson",
+    "genres": [
+      "afrobeats",
+      "r&b"
+    ],
+    "moods": [
+      "joyful",
+      "smooth"
+    ],
+    "tempo_bpm": 100,
+    "vocal": "male",
+    "lyric_themes": [
+      "love",
+      "party",
+      "summer"
+    ]
+  }
+]
